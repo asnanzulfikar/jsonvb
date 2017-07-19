@@ -1,0 +1,13 @@
+C:\Users\w4rl0ck\Documents\Visual Studio 2010\Projects\TelegramNotificationService_Ok\TelegramNotificationService_Ok\bin\Debug\TelegramNotificationService_Ok.exe.config
+C:\Users\w4rl0ck\Documents\Visual Studio 2010\Projects\TelegramNotificationService_Ok\TelegramNotificationService_Ok\bin\Debug\TelegramNotificationService_Ok.exe
+C:\Users\w4rl0ck\Documents\Visual Studio 2010\Projects\TelegramNotificationService_Ok\TelegramNotificationService_Ok\bin\Debug\TelegramNotificationService_Ok.pdb
+C:\Users\w4rl0ck\Documents\Visual Studio 2010\Projects\TelegramNotificationService_Ok\TelegramNotificationService_Ok\bin\Debug\TelegramNotificationService_Ok.xml
+C:\Users\w4rl0ck\Documents\Visual Studio 2010\Projects\TelegramNotificationService_Ok\TelegramNotificationService_Ok\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\w4rl0ck\Documents\Visual Studio 2010\Projects\TelegramNotificationService_Ok\TelegramNotificationService_Ok\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\w4rl0ck\Documents\Visual Studio 2010\Projects\TelegramNotificationService_Ok\TelegramNotificationService_Ok\obj\x86\Debug\TelegramNotificationService_Ok.vbproj.GenerateResource.Cache
+C:\Users\w4rl0ck\Documents\Visual Studio 2010\Projects\TelegramNotificationService_Ok\TelegramNotificationService_Ok\obj\x86\Debug\TelegramNotificationService_Ok.exe
+C:\Users\w4rl0ck\Documents\Visual Studio 2010\Projects\TelegramNotificationService_Ok\TelegramNotificationService_Ok\obj\x86\Debug\TelegramNotificationService_Ok.xml
+C:\Users\w4rl0ck\Documents\Visual Studio 2010\Projects\TelegramNotificationService_Ok\TelegramNotificationService_Ok\obj\x86\Debug\TelegramNotificationService_Ok.pdb
+C:\Users\w4rl0ck\Documents\Visual Studio 2010\Projects\TelegramNotificationService_Ok\TelegramNotificationService_Ok\bin\Debug\WebKitBrowser.dll
+C:\Users\w4rl0ck\Documents\Visual Studio 2010\Projects\TelegramNotificationService_Ok\TelegramNotificationService_Ok\bin\Debug\WebKit.Interop.dll
+C:\Users\w4rl0ck\Documents\Visual Studio 2010\Projects\TelegramNotificationService_Ok\TelegramNotificationService_Ok\obj\x86\Debug\TelegramNotificationService_Ok.vbprojResolveAssemblyReference.cache
